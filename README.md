@@ -1,1 +1,3 @@
-# madjax_macropad
+# MadJax Macropad
+
+
