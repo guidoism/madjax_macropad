@@ -21,3 +21,9 @@
 ![](images/macropad-front.jpg)
 ![](images/macropad-back.jpg)
 
+## Cost on JLCPCB
+
+* 5x $2 + $1.52 shipping
+* 10x $5 + $8.11 shipping
+* 15x $12.80 + $11.92 shipping
+* 20x $15.70 + $14.15 shipping
