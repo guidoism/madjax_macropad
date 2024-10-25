@@ -1,5 +1,5 @@
 # MadJax Macropad
 
-[](https://github.com/guidoism/madjax_macropad/blob/main/images/macropad-front.jpg?raw=true)
-[](https://github.com/guidoism/madjax_macropad/blob/main/images/macropad-back.jpg?raw=true)
+![](images/macropad-front.jpg)
+![](images/macropad-back.jpg)
 
